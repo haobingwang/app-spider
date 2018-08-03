@@ -1,0 +1,16 @@
+{
+    "name": "wanghaobing/app-spider",
+    "description": "爬虫演示",
+    "type": "project",
+    "require": {
+        "symfony/dom-crawler": "^3.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Haobing Wang",
+            "email": "liamwang@aliyun.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
